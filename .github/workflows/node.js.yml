@@ -29,5 +29,4 @@ jobs:
         context: ./
         file: ./Dockerfile
         push: true
-        ports: 8080:8080
         tags: ${{ secrets.U_TOKEN }}/simplewhale:latest
