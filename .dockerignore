@@ -1,0 +1,4 @@
+# ignore a bunch of folders and files
+.git
+.idea
+node_modules
